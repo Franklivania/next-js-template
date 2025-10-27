@@ -137,7 +137,7 @@ your-project/
 Creates a clean copy without git history - perfect for starting fresh:
 
 ```bash
-npx degit Franklivania/nextjs-starter-template my-project
+npx degit https://github.com/Franklivania/nextjs-starter-template my-project
 cd my-project
 ```
 
@@ -460,8 +460,8 @@ Built with:
 ## 💬 Support
 
 - 📖 [Read the Docs](./docs/INDEX.md)
-- 🐛 [Report Issues](https://github.com/yourusername/nextjs-starter-template/issues)
-- 💡 [Request Features](https://github.com/yourusername/nextjs-starter-template/issues)
+- 🐛 [Report Issues](https://github.com/Franklivania/nextjs-starter-template/issues)
+- 💡 [Request Features](https://github.com/Franklivania/nextjs-starter-template/issues)
 
 ---
 
