@@ -460,8 +460,8 @@ Built with:
 ## 💬 Support
 
 - 📖 [Read the Docs](./docs/INDEX.md)
-- 🐛 [Report Issues](https://github.com/Franklivania/nextjs-starter-template/issues)
-- 💡 [Request Features](https://github.com/Franklivania/nextjs-starter-template/issues)
+- 🐛 [Report Issues](https://github.com/Franklivania/next-js-template/issues)
+- 💡 [Request Features](https://github.com/Franklivania/next-js-template/issues)
 
 ---
 
